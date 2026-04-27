@@ -5,3 +5,8 @@ body{background: #F527D3;
     display: flex;
 }
 
+div{
+    margin: 20px;
+    padding: 20px;
+}
+
